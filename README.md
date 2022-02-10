@@ -1,2 +1,2 @@
 # Face-Mask-Detection
-#CNN model & 
+#CNN model & VGG19 model 
